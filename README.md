@@ -44,10 +44,10 @@
 
 <!-- LINKS -->
 
-[gmail-badge]: https://img.shields.io/badge/-gabriel.c.nunez@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white
+[gmail-badge]: https://img.shields.io/badge/-gabriel.c.nunez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white
 [Gmail]: mailto:gabriel.c.nunez@gmail.com
 
-[linkedin-badge]: https://img.shields.io/badge/Gabriel%20Nunez-%23OpenToWork-green?style=for-the-badge&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
+[linkedin-badge]: https://img.shields.io/badge/Gabriel%20Nunez-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
 [LinkedIn]: https://www.linkedin.com/in/gabriel-nunez-az/
 
 [ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=FEFEFE
