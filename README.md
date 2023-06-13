@@ -3,16 +3,42 @@
 <div align="center">
 
 ![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] <br>
-
+    
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielcnunez&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```json
+{
+    "data": {
+        "type": "writer of code",
+        "id": 87,
+        "attributes": {
+            "name": "Gabe Nunez",
+            "pronouns": [ "he", "him" ],
+            "currently_learning": [ "JavaScript", "React", "TypeScript", "Docker", "AWS" ],
+            "location": "Arizona",
+            "background": "Experienced mortgage professional pivoting to software development",
+            "hobbies": [ "singing", "birding", "cooking", "traveling", "college sports" ],
+            "education": {
+                "turing_school_of_software_and_design": "Certificate of Backend Engineering"
+            }
+        },
+        "links": {
+            "self": "https://github.com/gabrielcnunez",
+            "linkedin": "https://www.linkedin.com/in/gabriel-nunez-az/"
+        }
+    }
+}
+``` 
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielcnunez&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham"/>
 
 <div align="right">
 
 Please reach out and say hello!
     
-[![LinkedIn: josephmhilby][linkedin-badge]][LinkedIn]<br>
+[![LinkedIn: gabriel-nunez-az][linkedin-badge]][LinkedIn]<br>
     
 </div>
 
