@@ -32,20 +32,23 @@
 }
 ``` 
 
+### Please reach out and say hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+[![LinkedIn: gabriel-nunez-az][linkedin-badge]][LinkedIn]
+[![gmail-badge]][Gmail]
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielcnunez&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham"/>
 
-<div align="right">
 
-Please reach out and say hello!
-    
-[![LinkedIn: gabriel-nunez-az][linkedin-badge]][LinkedIn]<br>
-    
-</div>
 
 <!-- LINKS -->
 
-[LinkedIn]: https://www.linkedin.com/in/gabriel-nunez-az/
+[gmail-badge]: https://img.shields.io/badge/-gabriel.c.nunez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white
+[Gmail]: mailto:gabriel.c.nunez@gmail.com
+
 [linkedin-badge]: https://img.shields.io/badge/Gabriel%20Nunez-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
+[LinkedIn]: https://www.linkedin.com/in/gabriel-nunez-az/
 
 [ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat&logo=ruby&logoColor=FEFEFE
 [ruby-rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=FEFEFE
