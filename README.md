@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] <br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![heroku-badge][heroku]<br>
     
 </div>
 
@@ -44,35 +44,23 @@
 
 <!-- LINKS -->
 
-[gmail-badge]: https://img.shields.io/badge/-gabriel.c.nunez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white
+[gmail-badge]: https://img.shields.io/badge/-gabriel.c.nunez@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white
 [Gmail]: mailto:gabriel.c.nunez@gmail.com
 
-[linkedin-badge]: https://img.shields.io/badge/Gabriel%20Nunez-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
+[linkedin-badge]: https://img.shields.io/badge/Gabriel%20Nunez-%23OpenToWork-green?style=for-the-badge&logo=Linkedin&logoColor=black&color=7DE787&labelColor=A5D6FF
 [LinkedIn]: https://www.linkedin.com/in/gabriel-nunez-az/
 
-[ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat&logo=ruby&logoColor=FEFEFE
-[ruby-rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=FEFEFE
+[ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=FEFEFE
+[ruby-rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=FEFEFE
 
-[HTML5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FEFEFE
-[CSS3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=FEFEFE
+[HTML5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FEFEFE
+[CSS3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FEFEFE
 
-[react]: https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat
-[javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E
+[react]: https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square
+[javascript]: https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
 
-[python]: https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue
-[fastapi]: https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi
+[python]: https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue
+[fastapi]: https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi
 
-<!--
-**gabrielcnunez/gabrielcnunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[postgresql]: https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
+[heroku]: https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku
