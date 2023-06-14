@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![heroku-badge][heroku]<br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![heroku-badge][heroku] ![circleci-badge][circleci] <br>
     
 </div>
 
@@ -64,3 +64,4 @@
 
 [postgresql]: https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
 [heroku]: https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku
+[circleci]: https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white
