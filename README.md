@@ -38,7 +38,7 @@
 [![gmail-badge]][Gmail]
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align=center src="https://github-readme-stats.vercel.app/api?username=gabrielcnunez&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=gotham" /></a><a href="https://github.com/anuraghazra/convoychat"><img height=177 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcnunez&layout=compact&langs_count=8&card_width=320&theme=gotham" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align=center src="https://github-readme-stats.vercel.app/api?username=gabrielcnunez&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=gotham" /><!-- wi*quL3fcV --><img height=177 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcnunez&layout=compact&langs_count=8&card_width=320&theme=gotham" /></a>
 
 
 
