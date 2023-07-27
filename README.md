@@ -38,7 +38,12 @@
 [![gmail-badge]][Gmail]
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielcnunez&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielcnunez&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=171 src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcnunez&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+</a>
 
 
 
