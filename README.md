@@ -16,7 +16,7 @@
         "attributes": {
             "name": "Gabe Nunez",
             "pronouns": [ "he", "him" ],
-            "currently_learning": [ "JavaScript", "React", "TypeScript", "Docker", "AWS" ],
+            "currently_learning": [ "TypeScript", "MongoDB", "Express", "Docker", "AWS" ],
             "location": "Arizona",
             "background": "Experienced mortgage professional pivoting to software development",
             "hobbies": [ "singing", "birding", "cooking", "traveling", "college sports" ],
