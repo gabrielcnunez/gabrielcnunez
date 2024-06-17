@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![circleci-badge][circleci] ![postman-badge][postman]<br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![mongodb-badge][mongodb] ![circleci-badge][circleci] ![postman-badge][postman]<br>
     
 </div>
 
@@ -61,5 +61,6 @@
 [flask]: https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white
 
 [postgresql]: https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white
 [circleci]: https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white
 [postman]: https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
