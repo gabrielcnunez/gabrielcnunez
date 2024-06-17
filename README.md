@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![mongodb-badge][mongodb] ![circleci-badge][circleci] ![github-actions-badge][github-actions] ![postman-badge][postman]<br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![mongodb-badge][mongodb] ![circleci-badge][circleci] ![github-actions-badge][github-actions] ![postman-badge][postman] ![docker-badge][docker]<br>
     
 </div>
 
@@ -51,14 +51,14 @@
 [ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=FEFEFE
 [ruby-rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=FEFEFE
 
+[python]: https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue
+[fastapi]: https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi
+[flask]: https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white
+
 [HTML5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FEFEFE
 [CSS3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FEFEFE
 [javascript]: https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
 [react]: https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square
-
-[python]: https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue
-[fastapi]: https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi
-[flask]: https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white
 
 [postgresql]: https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
 [mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white
@@ -66,3 +66,4 @@
 [circleci]: https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white
 [github-actions]: https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white
 [postman]: https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
+[docker]: https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white
