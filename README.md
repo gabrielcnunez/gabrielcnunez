@@ -16,9 +16,9 @@
         "attributes": {
             "name": "Gabe Nunez",
             "pronouns": [ "he", "him" ],
-            "currently_learning": [ "TypeScript", "MongoDB", "Express", "Docker", "AWS" ],
+            "currently_learning": [ "Java", "TypeScript", "Express", "AWS" ],
             "location": "Arizona",
-            "background": "Experienced mortgage professional pivoting to software development",
+            "background": "Software engineer possessing extensive mortgage and financial services experience",
             "hobbies": [ "singing", "birding", "cooking", "traveling", "college sports" ],
             "education": {
                 "turing_school_of_software_and_design": "Certificate of Backend Engineering"
