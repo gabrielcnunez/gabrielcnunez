@@ -11,7 +11,7 @@
 ```json
 {
     "data": {
-        "type": "writer of code",
+        "type": "creator of code",
         "id": 87,
         "attributes": {
             "name": "Gabe Nunez",
