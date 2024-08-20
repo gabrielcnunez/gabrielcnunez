@@ -16,7 +16,7 @@
         "attributes": {
             "name": "Gabe Nunez",
             "pronouns": [ "he", "him" ],
-            "currently_learning": [ "Java", "Angular"],
+            "currently_learning": [ "Java", "Angular", "TypeScript", "Express", "AWS" ],
             "location": "Arizona",
             "background": "Software engineer possessing extensive mortgage and financial services experience",
             "hobbies": [ "singing", "birding", "cooking", "traveling", "college sports" ],
