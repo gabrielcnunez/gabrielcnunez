@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![react-badge][react] ![postgresql-badge][postgresql] ![mongodb-badge][mongodb] ![circleci-badge][circleci] ![github-actions-badge][github-actions] ![postman-badge][postman] ![docker-badge][docker]<br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![java-badge][java] ![spring-badge][spring] ![spring-boot-badge][spring-boot] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![angular-badge][angular] ![react-badge][react] ![postgresql-badge][postgresql] ![mongodb-badge][mongodb] ![circleci-badge][circleci] ![github-actions-badge][github-actions] ![postman-badge][postman] ![docker-badge][docker]<br>
     
 </div>
 
@@ -51,6 +51,10 @@
 [ruby]: https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=FEFEFE
 [ruby-rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=FEFEFE
 
+[java]: https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
+[spring]: https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat-square
+[spring-boot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
+
 [python]: https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue
 [fastapi]: https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi
 [flask]: https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white
@@ -58,6 +62,7 @@
 [HTML5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FEFEFE
 [CSS3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FEFEFE
 [javascript]: https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
+[angular]: https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white
 [react]: https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square
 
 [postgresql]: https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
