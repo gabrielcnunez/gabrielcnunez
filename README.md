@@ -26,6 +26,7 @@
         },
         "links": {
             "self": "https://github.com/gabrielcnunez",
+            "portfolio": "https://gabrielcnunez.github.io",
             "linkedin": "https://www.linkedin.com/in/gabriel-nunez-az/"
         }
     }
