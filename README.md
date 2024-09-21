@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ruby-badge][ruby] ![rails-badge][ruby-rails] ![java-badge][java] ![spring-badge][spring] ![spring-boot-badge][spring-boot] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![angular-badge][angular] ![react-badge][react] ![postgresql-badge][postgresql] ![mongodb-badge][mongodb] ![circleci-badge][circleci] ![github-actions-badge][github-actions] ![postman-badge][postman] ![docker-badge][docker]<br>
+![ruby-badge][ruby] ![rails-badge][ruby-rails] ![java-badge][java] ![spring-badge][spring] ![spring-boot-badge][spring-boot] ![python-badge][python] ![fastapi-badge][fastapi] ![flask-badge][flask] ![HTML5-badge][HTML5] ![CSS3-badge][CSS3] ![javascript-badge][javascript] ![typescript-badge][typescript] ![angular-badge][angular] ![react-badge][react] ![postgresql-badge][postgresql] ![mongodb-badge][mongodb] ![circleci-badge][circleci] ![github-actions-badge][github-actions] ![postman-badge][postman] ![docker-badge][docker]<br>
     
 </div>
 
@@ -62,6 +62,7 @@
 [HTML5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FEFEFE
 [CSS3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FEFEFE
 [javascript]: https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
+[typescript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
 [angular]: https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white
 [react]: https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square
 
