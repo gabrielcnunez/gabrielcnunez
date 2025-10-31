@@ -16,13 +16,14 @@
         "attributes": {
             "name": "Gabe Nunez",
             "pronouns": [ "he", "him" ],
-            "currently_learning": [ "Java", "Angular", "TypeScript", "Express", "AWS" ],
+            "currently_learning": [ "C++", "TypeScript", "Google Cloud", "AWS" ],
             "location": "Arizona",
             "background": "Software engineer possessing extensive mortgage and financial services experience",
             "hobbies": [ "singing", "birding", "cooking", "traveling", "college sports" ],
-            "education": {
-                "turing_school_of_software_and_design": "Certificate of Backend Engineering"
-            }
+            "education": [
+                "turing_school_of_software_and_design": "Certificate of Backend Engineering",
+                "cook_systems_fastrack_program": "Certification of Completion with Java and Angular focus"
+            ]
         },
         "links": {
             "self": "https://github.com/gabrielcnunez",
